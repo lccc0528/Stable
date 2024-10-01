@@ -1,5 +1,5 @@
 # StablePT
-This repository contains the source code of 'Separation is Better than Together: Towards Stable Prompting for Few-shot Learning'
+This repository contains the source code of 'StablePT : Towards Stable Prompting for Few-shot Learning via Input Separation'
 
 Data
 All training data can be downloaded from openreview, after downloading, put the data in ./process
@@ -13,5 +13,6 @@ run.py
 trainer.py
 utils.py
 How to use
+
 # run standard settings
 python run.py
