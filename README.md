@@ -18,3 +18,14 @@ All training data can be downloaded from openreview, after downloading, put the 
 ```
 # run standard settings
 python run.py
+```
+
+## Citation
+If you find our work helpful, please cite us with the following BibTex entry:
+```
+@article{liu2024stablept,
+  title={StablePT: Towards Stable Prompting for Few-shot Learning via Input Separation},
+  author={Liu, Xiaoming and Liu, Chen and Zhang, Zhaohan and Li, Chengzhengxu and Wang, Longtian and Lan, Yu and Shen, Chao},
+  journal={arXiv preprint arXiv:2404.19335},
+  year={2024}
+}
